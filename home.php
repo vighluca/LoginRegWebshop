@@ -19,6 +19,17 @@
     <iframe width="560" height="315" src="https://www.youtube.com/embed/pAxUzhkwjNY?si=qCWj7sN-v94-kzsY" title="TheVR Tech" 
         frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
     </iframe>
+    <br>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/q9sXJBPt7FU?si=R54eR8m5Y9AwLQuw" title="TheVR Tech" 
+        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+    </iframe>
+    <br>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/oqPF1GxnuFs?si=7QfaTu0hl6YY8BOH" title="TheVR Tech"
+        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+    </iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/yeCkPNWptCk?si=sp8sihRod_9wBwzh" title="TheVR Tech"
+        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+    </iframe>
     <h2>Feliratkozás hírlevélre</h2>
     <form method="post">
         Email: <input type="email" name="email" required><br>
